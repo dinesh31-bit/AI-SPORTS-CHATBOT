@@ -1,0 +1,4 @@
+this is a personalised sports assistent website created using streamlite and geoq api here in this application there are various types of sports and user can sellect any one sports and can able to ask any thing relates to thet sports and the chatbot can create a personalised diete plan and exersise plan for that sports based on your details This is a personalized sports assistant website created using Streamlit and the GeoQ API. In this application, there are various types of sports available, and the user can select any one of them to ask anything related to that sport. The chatbot can then create a personalized diet plan and exercise plan for that sport based on the user's details.
+![image](https://github.com/user-attachments/assets/dbcb9a4e-e12a-4b76-b860-ea78c4ef1906)
+
+![image](https://github.com/user-attachments/assets/0951c06b-5031-4e1c-8a78-d9bd98802e72)
